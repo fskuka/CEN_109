@@ -1,0 +1,4 @@
+﻿  main.c
+d:\github\cen_109\lab\week_13\5- mode of a series\5- mode of a series\main.c(31): warning C4013: 'getch' undefined; assuming extern returning int
+  5- Mode of a Series.vcxproj -> D:\GitHub\CEN_109\Lab\Week_13\5- Mode of a Series\Debug\5- Mode of a Series.exe
+  5- Mode of a Series.vcxproj -> D:\GitHub\CEN_109\Lab\Week_13\5- Mode of a Series\Debug\5- Mode of a Series.pdb (Full PDB)
